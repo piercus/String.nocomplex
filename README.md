@@ -13,7 +13,11 @@ Furthemore, I promise to modify all .prototype invocations on modules that are b
 
 All methods are taken on [underscore.string](https://github.com/epeli/underscore.string)
 
-## Install ##
+## Usage ##
+
+
+
+## Install ##
 
 String.nocomplex is coded as [AMD module](http://requirejs.org/docs/whyamd.html) but can be installed with npm, bower or old-fashioned src=".min.js".
 
@@ -61,7 +65,8 @@ window.StringNocomplex
 
 ## To do ##
 
-*  
+* more tests 
+* atomised in amd modules ? 
 
 ## Documentation ##
 
