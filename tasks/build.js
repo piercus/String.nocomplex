@@ -110,7 +110,7 @@ Builder.prototype = {
     setRequirejsConfig: function() {
 
         this.mainConfigFile = 'app/main.js'
-        this.name = 'String.nocomplex/main'
+        this.name = 'SeedHq/main'
 
         this.grunt.config.set( 'requirejs', {
 
