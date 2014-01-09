@@ -8,7 +8,7 @@
 // Copyright (c) Alexandru Marasteanu <alexaholic [at) gmail (dot] com>
 
 /**
- * String.nocomplex version: "0.0.5" Copyright (c) 2011-2012, Cyril Agosta ( cyril.agosta.dev@gmail.com) All Rights Reserved.
+ * String.nocomplex version: "0.0.6" Copyright (c) 2011-2012, Cyril Agosta ( cyril.agosta.dev@gmail.com) All Rights Reserved.
  * Available via the MIT license.
  * see: http://github.com/cagosta/String.nocomplex for details
  */
