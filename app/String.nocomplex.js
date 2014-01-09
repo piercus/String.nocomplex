@@ -1,13 +1,16 @@
 /**
- * String.nocomplex version: "0.0.6" Copyright (c) 2011-2012, Cyril Agosta ( cyril.agosta.dev@gmail.com) All Rights Reserved.
+ * String.nocomplex version: "0.0.7" Copyright (c) 2011-2012, Cyril Agosta ( cyril.agosta.dev@gmail.com) All Rights Reserved.
  * Available via the MIT license.
  * see: http://github.com/cagosta/String.nocomplex for details
  */
 
 define( [
-    'underscore.string'
- ], function( helpers ) {
+    'underscore.string',
+    './uncapitalize'
+ ], function( helpers, uncapitalize ) {
 
+
+    
     var slice = Array.prototype.slice,
         addMethod = function( method ) {
             String.prototype[ method ] = function() {
