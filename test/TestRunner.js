@@ -34,7 +34,8 @@ define( [
     var TestRunner = function() {
 
         this.suitePaths = [
-            'test/suites/MainTestSuite'
+            'test/suites/MainTestSuite',
+            'test/suites/AtomicTestSuite'
         ]
 
         this.detectExecutionEnvironment()
